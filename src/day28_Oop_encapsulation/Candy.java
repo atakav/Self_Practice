@@ -1,4 +1,4 @@
-package Oop_encapsulation;
+package day28_Oop_encapsulation;
 
 public class Candy {
 
